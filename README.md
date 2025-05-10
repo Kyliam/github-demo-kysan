@@ -1,7 +1,7 @@
-[![MasterHead]()]()
+
 <h1 align="center">Hi 👋, I'm Kyliam</h1>
 <h3 align="center">A full-stack developer from Vietnam</h3>
-<image align="right" width="400" src="https://media.giphy.com/media/YtCAXWS94FZbWiKmKH/giphy.gif?cid=ecf05e47xxnrdavncd1gzwtul9jmspd5wvar7e8nvx4n40di&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<image align="center" width="400" src="https://media.giphy.com/media/YtCAXWS94FZbWiKmKH/giphy.gif?cid=ecf05e47xxnrdavncd1gzwtul9jmspd5wvar7e8nvx4n40di&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyliam&label=Profile%20views&color=0e75b6&style=flat" alt="kyliam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyliam" alt="kyliam" /></a> </p>
